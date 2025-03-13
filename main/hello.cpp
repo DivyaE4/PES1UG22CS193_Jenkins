@@ -6,6 +6,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this  \n";
-  cout << "Continuous Build - Task 4 needs to work"
+  cout << "Continuous Build - Task 4 needs to work";
   return 0;
 }
